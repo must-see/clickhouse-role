@@ -1,7 +1,7 @@
 Clickhouse Role
 =========
 
-A brief description of the role goes here.
+Install Clickhouse
 
 Requirements
 ------------
